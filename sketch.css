@@ -1,0 +1,45 @@
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Crimson Text', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Abril Fatface', cursive; */
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    color: gray;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Crimson Text', serif;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    color: rgb(85, 85, 85);
+    text-align: center;
+}
+
+.text-muted {
+    font-family: 'Crimson Text', serif;
+    font-size: 34px;
+}
+
+.bottom-left {
+    font-family: 'Crimson Text', serif;
+    font-size: 90px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: 2px;
+    left: 100px
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
